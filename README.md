@@ -1,0 +1,1 @@
+Home automation scripts pack for Domoticz system.
