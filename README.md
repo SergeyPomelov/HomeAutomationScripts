@@ -1,4 +1,5 @@
 # Home Automation Scripts
+![Domoticz](https://i.ibb.co/zfc4xQ5/Domoticz-logo.jpg)
 
 :information_source: It isn't a ready to compile/go project, just a published for the community dozen of examples to keep/fix/manage all of them in one place instead of tens of forums.
 
